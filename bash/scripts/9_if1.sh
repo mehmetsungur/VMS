@@ -14,5 +14,4 @@ else
   echo "You have entered number less than 100."
 fi
 
-
 echo "Script execution completed successfully."

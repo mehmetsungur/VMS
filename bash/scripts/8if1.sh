@@ -12,5 +12,4 @@ then
    date
 fi
 
-
 echo "Script execution completed successfully."

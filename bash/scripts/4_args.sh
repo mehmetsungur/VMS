@@ -11,4 +11,3 @@ echo $2
 
 echo "Value of 3"
 echo $3
-

@@ -11,4 +11,3 @@ then
 else
   echo "No Active interface found."
 fi
-
