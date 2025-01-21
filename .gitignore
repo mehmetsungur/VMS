@@ -2,3 +2,4 @@ git.sh
 .vagrant
 ms.pem
 target
+application.properties
